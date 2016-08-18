@@ -225,6 +225,8 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  "~*x chocolate ~*y": [
+    "Why is the plight of the otter compelling?", 
 };
 
 var default_responses = [
