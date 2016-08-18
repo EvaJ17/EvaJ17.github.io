@@ -234,6 +234,7 @@ var default_responses = [
   "Please continue",
   "Go on",
   "Do you feel strongly about discussing such things?",
+  "The plight of the otter is not to be trifled with",
 ];
 
 function choice(lst) {
